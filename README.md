@@ -2,10 +2,11 @@
 
 **Task Overview:**
 
-*Performing the following steps:*
-**Write an Infrastructure as code using terraform, which automatically create a VPC.**
+Performing the following steps:
 
+> Write an Infrastructure as code using terraform, which automatically create a VPC.
 > In that VPC we have to create 2 subnets:
+   
     1. public subnet [ Accessible for Public World! ] 
 
     2. private subnet [ Restricted for Public World! ]
